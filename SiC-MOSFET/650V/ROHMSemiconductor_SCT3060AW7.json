@@ -1,7 +1,4 @@
 {
-  "_id": {
-    "$oid": "620df392cead4dcb77fc0c4d"
-  },
   "name": "Rohm_SCT3060AW7",
   "type": "SiC-MOSFET",
   "author": "Benjamin Strothmann",

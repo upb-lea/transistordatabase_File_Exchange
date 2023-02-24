@@ -1,7 +1,4 @@
 {
-  "_id": {
-    "$oid": "610000b648c2a97e1d2df68b"
-  },
   "name": "Mitsubishi_CM200DY-24T",
   "type": "IGBT",
   "author": "Nikolas F\u00f6rster",

@@ -1,7 +1,4 @@
 {
-  "_id": {
-    "$oid": "618ff0bfc6f13cc62bbcf844"
-  },
   "name": "GaNSystems_GS66506T",
   "type": "GaN-Transistor",
   "author": "Mohan Nagella",

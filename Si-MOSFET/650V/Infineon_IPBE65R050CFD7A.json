@@ -1,7 +1,4 @@
 {
-  "_id": {
-    "$oid": "620df34386076390a4485a21"
-  },
   "name": "Infineon_IPBE65R050CFD7A",
   "type": "MOSFET",
   "author": "Benjamin Strothmann",

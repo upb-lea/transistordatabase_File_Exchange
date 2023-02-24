@@ -1,7 +1,4 @@
 {
-  "_id": {
-    "$oid": "60b4d49e0ac4781ebcc91463"
-  },
   "name": "Infineon_FF200R12KE3",
   "type": "IGBT",
   "author": "Nikolas F\u00f6rster",

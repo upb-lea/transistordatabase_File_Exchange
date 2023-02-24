@@ -1,7 +1,4 @@
 {
-  "_id": {
-    "$oid": "609a5fd651c1fe8a7098707b"
-  },
   "name": "CREE_WAB300M12BM3",
   "type": "SiC-MOSFET",
   "author": "Nikolas F\u00f6rster",

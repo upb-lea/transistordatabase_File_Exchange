@@ -1,7 +1,4 @@
 {
-  "_id": {
-    "$oid": "60f0243935b6d71a76e57f1a"
-  },
   "name": "CREE_CAB530M12BM3",
   "type": "SiC-MOSFET",
   "author": "Nikolas F\u00f6rster",

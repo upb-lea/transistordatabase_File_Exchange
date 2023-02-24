@@ -1,7 +1,4 @@
 {
-  "_id": {
-    "$oid": "61d3064d5bd9af24679e323a"
-  },
   "name": "CREE_C3M0065100J",
   "type": "SiC-MOSFET",
   "author": "Nikolas F\u00f6rster",

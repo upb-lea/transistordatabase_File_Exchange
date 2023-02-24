@@ -1,7 +1,4 @@
 {
-  "_id": {
-    "$oid": "6078166cad87558b9f05ed53"
-  },
   "name": "Fuji_2MBI100XAA120-50",
   "type": "IGBT",
   "author": "Nikolas F\u00f6rster",

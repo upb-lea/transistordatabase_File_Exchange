@@ -1,7 +1,4 @@
 {
-  "_id": {
-    "$oid": "60a77b69fc5148b7e059f499"
-  },
   "name": "UnitedSiC_UF3SC065007K4S",
   "type": "SiC-MOSFET",
   "author": "Nikolas F\u00f6rster",

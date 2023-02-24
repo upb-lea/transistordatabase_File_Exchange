@@ -1,7 +1,4 @@
 {
-  "_id": {
-    "$oid": "60bf3ffa13982fc53abdd430"
-  },
   "name": "Semikron_SKM400GB12T4",
   "type": "IGBT",
   "author": "Nikolas F\u00f6rster",
