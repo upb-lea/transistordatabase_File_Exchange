@@ -4752,7 +4752,185 @@
       }
     ],
     "e_on_meas": [],
-    "e_off_meas": [],
+    "e_off_meas":
+      [
+        {
+            "dataset_type": "graph_i_e",
+            "v_supply": 700,
+            "v_g": 15,
+            "v_g_off": -4,
+            "t_j": 25,
+            "load_inductance": 0.00075,
+            "measurement_date": "2026-04-15",
+            "measurement_testbench": "LEA-UPB Testbench",
+            "commutation_inductance": 1.7e-08,
+            "commutation_device": "C3M0120100J",
+            "comment": "",
+            "e_x": null,
+            "r_g": 2.5,
+            "i_x": null,
+            "graph_r_e": null,
+            "graph_i_e": [
+                [
+                    5.0,
+                    10.0,
+                    15.0,
+                    20.0,
+                    25.0,
+                    30.0,
+                    35.0,
+                    40.0,
+                    45.0,
+                    50.0
+                ],
+                [
+                    2.7270739200000003e-05,
+                    2.3236633600000004e-05,
+                    2.84047104e-05,
+                    4.040044800000002e-05,
+                    5.8273535999999995e-05,
+                    8.7875904e-05,
+                    0.00010803667200000002,
+                    0.00015182624,
+                    0.00016575564799999995,
+                    0.00021452377599999987
+                ]
+            ],
+            "graph_t_e": null
+        },
+        {
+            "dataset_type": "graph_i_e",
+            "v_supply": 700,
+            "v_g": 15,
+            "v_g_off": -4,
+            "t_j": 120,
+            "load_inductance": 0.00075,
+            "measurement_date": "2026-04-15",
+            "measurement_testbench": "LEA-UPB Testbench",
+            "commutation_inductance": 1.7e-08,
+            "commutation_device": "C3M0120100J",
+            "comment": "",
+            "e_x": null,
+            "r_g": 2.5,
+            "i_x": null,
+            "graph_r_e": null,
+            "graph_i_e": [
+                [
+                    5.0,
+                    10.0,
+                    15.0,
+                    20.0,
+                    25.0,
+                    30.0,
+                    35.0,
+                    40.0,
+                    45.0,
+                    50.0
+                ],
+                [
+                    2.79527296e-05,
+                    2.6122035199999997e-05,
+                    3.26825728e-05,
+                    4.881689599999996e-05,
+                    7.3969088e-05,
+                    0.000101088928,
+                    0.00012896832,
+                    0.00017085119999999998,
+                    0.00021473215999999982,
+                    0.000260451136
+                ]
+            ],
+            "graph_t_e": null
+        },
+        {
+            "dataset_type": "graph_i_e",
+            "v_supply": 700,
+            "v_g": 15,
+            "v_g_off": -4,
+            "t_j": 80,
+            "load_inductance": 0.00075,
+            "measurement_date": "2026-04-15",
+            "measurement_testbench": "LEA-UPB Testbench",
+            "commutation_inductance": 1.7e-08,
+            "commutation_device": "C3M0120100J",
+            "comment": "",
+            "e_x": null,
+            "r_g": 2.5,
+            "i_x": null,
+            "graph_r_e": null,
+            "graph_i_e": [
+                [
+                    5.0,
+                    10.0,
+                    15.0,
+                    20.0,
+                    25.0,
+                    30.0,
+                    35.0,
+                    40.0,
+                    45.0,
+                    50.0
+                ],
+                [
+                    2.7816153599999997e-05,
+                    2.559441920000001e-05,
+                    3.0705868800000006e-05,
+                    4.6504448e-05,
+                    5.9208512e-05,
+                    8.6098368e-05,
+                    0.000123084672,
+                    0.00014950924799999994,
+                    0.00019938508800000003,
+                    0.00023911283199999988
+                ]
+            ],
+            "graph_t_e": null
+        },
+        {
+            "dataset_type": "graph_i_e",
+            "v_supply": 700,
+            "v_g": 15,
+            "v_g_off": -4,
+            "t_j": 100,
+            "load_inductance": 0.00075,
+            "measurement_date": "2026-04-15",
+            "measurement_testbench": "LEA-UPB Testbench",
+            "commutation_inductance": 1.7e-08,
+            "commutation_device": "C3M0120100J",
+            "comment": "",
+            "e_x": null,
+            "r_g": 2.5,
+            "i_x": null,
+            "graph_r_e": null,
+            "graph_i_e": [
+                [
+                    5.0,
+                    10.0,
+                    15.0,
+                    20.0,
+                    25.0,
+                    30.0,
+                    35.0,
+                    40.0,
+                    45.0,
+                    50.0
+                ],
+                [
+                    2.83717504e-05,
+                    2.4556416e-05,
+                    3.0089292799999994e-05,
+                    4.734793599999999e-05,
+                    6.136159999999999e-05,
+                    9.601984000000002e-05,
+                    0.000123281216,
+                    0.00015966438399999996,
+                    0.00019267673599999998,
+                    0.000262279552
+                ]
+            ],
+            "graph_t_e": null
+        }
+    ],
     "linearized_switch": [],
     "r_channel_th": [
       {
